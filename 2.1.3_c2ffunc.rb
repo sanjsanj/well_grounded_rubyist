@@ -1,3 +1,4 @@
+# obj = Object.new
 obj = true
 
 def obj.c2f(c)
